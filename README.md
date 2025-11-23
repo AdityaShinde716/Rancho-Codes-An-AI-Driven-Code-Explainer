@@ -1,1 +1,1 @@
-Built an AI Code Explainer web app for C++, Java, JavaScript and Python language using OPEN AI model with Nebius ai api key and having Rate Limiter to protect from attack where frontend is built with Reactjs and backend with Nodejs and Express.
+Built an AI Code Explainer web app for C++, Java, JavaScript and Python languages using OPEN AI model with Nebius ai api key and having Rate Limiter to protect from attack where frontend is built with Reactjs and backend with Nodejs and Express.
