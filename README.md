@@ -1,1 +1,2 @@
-Built an AI Code Explainer web app for C++, Java, JavaScript and Python languages using OPEN AI model with Nebius ai api key and having Rate Limiter to protect from attack where frontend is built with Reactjs and backend with Nodejs and Express.
+# Rancho-Codes-An-AI-Code-Explainer
+Developed Rancho Codes an AI-driven Code Explainer web application supporting C++, Java, JavaScript, and Python. Integrated OpenAI models via the Nebius AI API and implemented advanced rate limiting for security. Engineered a scalable architecture with a React.js frontend and Node.js/Express backend.
